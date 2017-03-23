@@ -1,0 +1,22 @@
+{
+    "name": "theme-cloud9-night-low-color",
+    "displayName": "theme-cloud9-night-low-color",
+    "description": "theme-cloud9-night-low-color",
+    "version": "0.0.1",
+    "publisher": "pong420",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cloud9-night-low-color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cloud9_night_low_color.tmTheme"
+            }
+        ]
+    }
+}
