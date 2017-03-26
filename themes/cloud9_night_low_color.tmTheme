@@ -20,7 +20,7 @@
 				<key>foreground</key>
 				<string>#e7e7e2ff</string>
 				<key>invisibles</key>
-				<string>#DBC730</string>
+				<string>#292929</string>
 				<key>lineHighlight</key>
 				<string>#292929</string>
 				<key>selection</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#525252ff</string>
+				<string>#6d737dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b0c332ff</string>
+				<string>#aebd4dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,42 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d69a1dff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Built-in constant</string>
-			<key>scope</key>
-			<string>constant.language</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>User-defined constant</string>
-			<key>scope</key>
-			<string>constant.character, constant.other</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>variable.language.js</string>
-			<key>scope</key>
-			<string>variable.language</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
+				<string>#cb9d3dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bc89d3ff</string>
+				<string>#b790c9ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +81,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#dededeff</string>
+				<string>#d1d1d1ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,18 +92,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bc89d3ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Class name</string>
-			<key>scope</key>
-			<string>meta.class.instance.constructor,entity.name.type.instance</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
+				<string>#b790c9ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,24 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b0c332ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function name</string>
-			<key>scope</key>
-			<string>meta.class.instance.constructor,
-entity.name.type.instance,
-entity.name.type,
-meta.definition.function.js,
-meta.function.json.js</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
+				<string>#aebd4dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -177,7 +114,7 @@ meta.function.json.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dededeff</string>
+				<string>#d1d1d1ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -190,7 +127,7 @@ meta.function.json.js</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BC89D3</string>
+				<string>#b790c9ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,45 +141,7 @@ entity.other.attribute-name.css</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b0c332ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Library function</string>
-			<key>scope</key>
-			<string>support.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Library constant</string>
-			<key>scope</key>
-			<string>support.constant</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#699AD6</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Library class&#x2f;type</string>
-			<key>scope</key>
-			<string>support.class,
-support.class.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
+				<string>#aebd4dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -264,11 +163,11 @@ support.class.js</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#de0960ff</string>
+				<string>#d12d70ff</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#dededeff</string>
+				<string>#d1d1d1ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,20 +178,21 @@ support.class.js</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#a370deff</string>
+				<string>#a47dd1ff</string>
 				<key>foreground</key>
-				<string>#dededeff</string>
+				<string>#d1d1d1ff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>support.constant.dom</string>
 			<key>scope</key>
-			<string>support.constant.dom</string>
+			<string>support.constant.dom,
+support.variable.property.dom</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dededeff</string>
+				<string>#ebebebff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -303,7 +203,7 @@ support.class.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bc89d3ff</string>
+				<string>#b790c9ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -314,7 +214,7 @@ support.class.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dededeff</string>
+				<string>#d1d1d1ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -327,19 +227,7 @@ keyword.operator.comparison.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#69b3a5ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>support.variable.dom.js</string>
-			<key>scope</key>
-			<string>support.variable.dom.js,
-support.variable.property.dom.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#699ad6ff</string>
+				<string>#77b0a5ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -350,7 +238,7 @@ support.variable.property.dom.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bc89d3ff</string>
+				<string>#b790c9ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,7 +249,7 @@ support.variable.property.dom.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#eeeeeeff</string>
+				<string>#dededeff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -373,7 +261,7 @@ entity.other.attribute-name.pseudo-element.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#699AD6</string>
+				<string>#779dcbff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -384,7 +272,7 @@ entity.other.attribute-name.pseudo-element.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7C547</string>
+				<string>#d8be5dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -398,7 +286,7 @@ entity.other.attribute-name.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DAA637</string>
+				<string>#cea651ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -410,7 +298,7 @@ entity.name.tag.reference.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFF</string>
+				<string>#ebebebff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -421,7 +309,7 @@ entity.name.tag.reference.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFF</string>
+				<string>#ebebebff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -434,7 +322,32 @@ punctuation.definition.tag.end.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BC89D3</string>
+				<string>#b790c9ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>color1</string>
+			<key>scope</key>
+			<string>constant.language,
+constant.character, constant.other,
+variable.language.js,
+meta.class.instance.constructor,entity.name.type.instance,
+meta.class.instance.constructor,
+entity.name.type.instance,
+entity.name.type,
+meta.definition.function.js,
+support.constant,
+support.function.js,
+support.function.dom.js,
+support.class.js,
+support.variable.dom.js,
+support.variable.property.dom.js,
+variable.language.this.js,</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#779dcbff</string>
 			</dict>
 		</dict>
 	</array>
